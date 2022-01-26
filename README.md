@@ -6,6 +6,8 @@
 
 ![Carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=Carlosant2020&show_icons=true&theme=draculal)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosant2020)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### TECNOLOGIAS
 
